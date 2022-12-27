@@ -1,5 +1,5 @@
 # The Odin Project - Foundations Course
-[Link do curso](https://www.theodinproject.com/lessons/foundations-recipes)
+[Link do curso](https://www.theodinproject.com/lessons/foundations-recipes) |
 [Projeto implementado]()
 
 É a prática dos conhecimentos adquiridos no curso até aqui, que são:
