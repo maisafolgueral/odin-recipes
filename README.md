@@ -1,6 +1,6 @@
 # The Odin Project - Foundations Course
 [Link do curso](https://www.theodinproject.com/lessons/foundations-recipes) |
-[Projeto implementado]()
+[Projeto implementado](https://maisafolgueral.github.io/odin-recipes/)
 
 É a prática dos conhecimentos adquiridos no curso até aqui, que são:
 * HTML
